@@ -7,4 +7,5 @@ feature 3 added
 
 feature 4 added
 
+bugfix branch data updated
 whatever changes done in "featureBranch"  does't reflect in main branch
