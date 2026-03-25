@@ -6,3 +6,7 @@ feature2 added
 feature 3 added
 
 feature 4 added
+
+
+a new feature branch added 
+now I can add branch and start editting saperately
