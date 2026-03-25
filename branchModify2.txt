@@ -6,3 +6,5 @@ feature2 added
 feature 3 added
 
 feature 4 added
+
+whatever changes done in "featureBranch"  does't reflect in main branch
