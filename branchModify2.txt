@@ -9,7 +9,12 @@ feature 4 added
 
 bugfix branch data updated
 whatever changes done in "featureBranch"  does't reflect in main branch
+
+
+
+now merging feature branch to main by pull method
+
   
 
 
-now merginging bugfix to main 
+
