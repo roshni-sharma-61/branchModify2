@@ -7,6 +7,5 @@ feature 3 added
 
 feature 4 added
 
-
-a new feature branch added 
-now I can add branch and start editting saperately
+bugfix branch data updated
+whatever changes done in "featureBranch"  does't reflect in main branch
